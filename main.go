@@ -1,4 +1,4 @@
-package ANSITerminal
+package colors
 
 const (
 	cRed     = "\x1B[0;31m"
